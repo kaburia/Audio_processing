@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/88529649/194733366-e380b3cf-5121-4e36-
 Group Spotify's liked songs based on similarities in either time or frequency domain to create various playlists<br>
 
 1. Obtain songs links
-2. Retrieve the song using urllib.request.url.retrieve
+2. Retrieve the song 
 3. Save as a wav file 
 4. Perform an analysis on the audio and obtain their spectrograms
 5. Image processing
