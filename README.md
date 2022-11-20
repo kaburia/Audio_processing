@@ -13,6 +13,4 @@ Group Spotify's liked songs based on similarities in either time or frequency do
 
 1. Obtain songs links
 2. Retrieve the song 
-3. Save as a wav file 
-4. Perform an analysis on the audio and obtain their spectrograms
-5. Image processing
+3. Music recognition: Fingerprinting a song
